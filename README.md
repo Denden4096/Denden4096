@@ -1,5 +1,3 @@
-Try to decipher it ⚡
-
 ```
 1f 8b 08 00 00 00 00 00 02 03 ed 94 cf 4e c3 30 0c 87 ef 79 0a df ba 49 7b 89 49 48 a8 17 38 4e
 1c d3 c6 6d 4a 53 1b e5 cf aa be 3d 4e 3a 60 05 71 83 c3 04 b7 29 8e bf 7c f6 af da 09 2b 8f 40
@@ -15,5 +13,7 @@ cb b0 b2 3c 0f 16 b5 cf eb 6d 10 c5 b0 b5 79 b1 4d 2a 90 9c 5e 64 89 cf 2e 39 b8
 f7 c8 f6 70 2d ba ff ee 68 bf 79 28 97 0f 5f 4e 60 f7 13 6d 37 f5 9d ff b5 ff a0 7f dd 5f d4 7d
 05 6f 08 d9 29 5e 07 00 00
 ```
+
+Try to decipher it ⚡
 
 <!-- Hint: gzip -->
